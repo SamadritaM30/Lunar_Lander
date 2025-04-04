@@ -6,8 +6,8 @@ A PyTorch-based AI agent that plays the classic [LunarLander-v3](https://www.gym
 
 ## 🧱 Overview
 
-- ✅ Reinforcement learning without gradient descent
-- ✅ Uses **Particle Swarm Optimization (PSO)** instead of traditional backpropagation
+- ✅ Reinforcement learning to convert the 8D input to 4D output using hidden layers of neurons
+- ✅ Uses **Particle Swarm Optimization (PSO)** 
 - ✅ Built with **PyTorch** and **Gymnasium**
 - ✅ Fully self-contained, CPU-compatible training
 - ✅ Achieves competitive performance with average reward ~**284.75**
