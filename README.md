@@ -6,7 +6,7 @@ A PyTorch-based AI agent that plays the classic [LunarLander-v3](https://www.gym
 
 ## 🧱 Overview
 
-- ✅ Reinforcement learning to convert the 8D input to 4D output using hidden layers of neurons
+- ✅ Reinforcement learning to convert the 8D input to 4D output using hidden layers of 256 neurons
 - ✅ Uses **Particle Swarm Optimization (PSO)** 
 - ✅ Built with **PyTorch** and **Gymnasium**
 - ✅ Fully self-contained, CPU-compatible training
